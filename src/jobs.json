@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "a5b4",
-      "title": "Test Job 1",
-      "type": "Full-Time",
-      "location": "Frederick MD",
-      "description": "This is a test",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Stages Hub",
-        "description": "This is an awesome company.",
-        "contactEmail": "test@test.com",
-        "contactPhone": "0552239921"
-      }
     }
   ]
 }
